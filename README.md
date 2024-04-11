@@ -25,13 +25,13 @@
  __Use Language__
  <img src="https://cdn.simpleicons.org/hackaday/000/fff" alt=hackaday width=15>
 </h3>
-<br>
-</br>
 
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  <img src="https://img.shields.io/badge/c-F2CB61?style=for-the-badge&logo=c&logoColor=white">
  <img src="https://img.shields.io/badge/assembly-8C8C8C?style=for-the-badge&logo=assemblyscript&logoColor=white">
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+ <br>
+</br>
  
  ---
  <h3 align="center">
