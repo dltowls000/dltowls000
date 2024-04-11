@@ -12,9 +12,11 @@ Welcome To H4ck-L Hacking Ground !!👋
 
 <div align="center">
  
+ <img src="https://cdn.simpleicons.org/"hackaday"/000/fff" alt="hackaday" width=70>
  
- __💀 Language 💀__
-
+ __Language__
+<img src="https://cdn.simpleicons.org/"hackaday"/000/fff" alt="hackaday" width=70>
  
  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+ <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 </div>
