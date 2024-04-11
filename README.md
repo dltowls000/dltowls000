@@ -1,7 +1,7 @@
 <div align="center">
  <img src="https://raw.githubusercontent.com/H4CK-L/H4CK-L/main/H4ck%20Living..gif"  width="100%" height="550"/>
  
- ![header](https://capsule-render.vercel.app/api?type=wave&color=848484)
+ <img src="https://capsule-render.vercel.app/api?type=wave&color=848484&height=300"/>
 <br>
 </br>
 Welcome To H4ck-L Hacking Ground !!👋
@@ -39,9 +39,7 @@ Welcome To H4ck-L Hacking Ground !!👋
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
  <img src="https://img.shields.io/badge/assembly-8C8C8C?style=for-the-badge&logo=assemblyscript&logoColor=white">
- 
-</div>
-<div align="center">
- 
+
 <img src="https://capsule-render.vercel.app/api?type=wave&color=848484&height=300&section=footer"/>
-</div>
+
+</dev?
