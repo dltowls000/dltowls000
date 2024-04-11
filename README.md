@@ -31,8 +31,6 @@
  <img src="https://img.shields.io/badge/assembly-8C8C8C?style=for-the-badge&logo=assemblyscript&logoColor=white">
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
  <br>
- <br>
- </br>
  </br>
  <h3 align="center">
  <img src="https://cdn.simpleicons.org/hackaday/000/fff" alt=hackaday width=15>
