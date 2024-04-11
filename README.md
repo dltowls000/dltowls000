@@ -39,7 +39,6 @@
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
- <img src="https://img.shields.io/badge/assembly-8C8C8C?style=for-the-badge&logo=assemblyscript&logoColor=white">
  <br>
  </br>
  ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=H4CK-L&show_icons=true&theme=dark#gh-dark-mode-only)
