@@ -16,5 +16,5 @@ Welcome To H4ck-L Hacking Ground !!👋
  __💀 Language 💀__
 
  
- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
