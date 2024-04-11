@@ -12,7 +12,7 @@ Welcome To H4ck-L Hacking Ground !!👋
 
 <div align="center">
  
- <img sr="https://github.com/H4CK-L/H4CK-L/blob/main/hackaday-color.svg"/>
+ <img src="https://github.com/H4CK-L/H4CK-L/blob/main/hackaday-color.svg"/>
  
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </div>
