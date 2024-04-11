@@ -1,7 +1,9 @@
 <div align="center">
-  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FH4CK-L&count_bg=%2363C618&title_bg=%23D7F5D7&icon=keybase.svg&icon_color=%23000000&title=hits&edge_flat=false)]([https://hits.seeyoufarm.com](https://github.com/H4CK-L))
+
+
+  <img src="https://img.shields.io/badge/hackaday-#1A1A1A?style=flat-square&logo=HTML5&logoColor=white"/>
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>### 
 <!--
 **H4CK-L/H4CK-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
