@@ -1,9 +1,5 @@
 <div align="center">
  <img src="https://raw.githubusercontent.com/H4CK-L/H4CK-L/main/H4ck%20Living..gif"  width="100%" height="550"/>
- <br>
- <br>
- </br>
- </br>
  <img src="https://capsule-render.vercel.app/api?type=wave&color=714ED9&height=300"/>
 <br>
 <br>
