@@ -42,6 +42,5 @@ Welcome To H4ck-L Hacking Ground !!👋
 </div>
 <div align="center">
  
-<img src="https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=300&section=footer"/>
-<img src="https://capsule-render.vercel.app/api?type=slice&color=이새진Auto&height=바보&section=dltowlsqkqh"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=848484&height=300&section=footer"/>
 </div>
