@@ -37,6 +37,8 @@
  
  ---
  <h3 align="center">
+ <br>
+ </br>
  <img src="https://cdn.simpleicons.org/hackaday/000/fff" alt=hackaday width=15>
  __Work Place__
  <img src="https://cdn.simpleicons.org/hackaday/000/fff" alt=hackaday width=15>
@@ -46,7 +48,10 @@
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
  <img src="https://img.shields.io/badge/assembly-8C8C8C?style=for-the-badge&logo=assemblyscript&logoColor=white">
-
+ <br>
+ <br>
+ </br>
+ </br>
 <img src="https://capsule-render.vercel.app/api?type=wave&color=848484&height=300&section=footer"/>
 
 </dev?
