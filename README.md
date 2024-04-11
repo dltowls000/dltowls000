@@ -1,7 +1,7 @@
 <div align="center">
  <img src="https://raw.githubusercontent.com/H4CK-L/H4CK-L/main/H4ck%20Living..gif"  width="100%" height="550"/>
  
- ![header](https://capsule-render.vercel.app/api?type=slice)
+ ![header](https://capsule-render.vercel.app/api?type=slice&color=848484)
 <br>
 </br>
 Welcome To H4ck-L Hacking Ground !!👋
