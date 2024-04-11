@@ -41,7 +41,8 @@
  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
  <img src="https://img.shields.io/badge/assembly-8C8C8C?style=for-the-badge&logo=assemblyscript&logoColor=white">
 
- <a href="https://www.instagram.com/rbs1ey"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rbs1ey"/></a>
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=H4CK-L&show_icons=true&theme=transparent)
  
  <br>
  </br>
