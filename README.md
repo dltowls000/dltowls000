@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://raw.githubusercontent.com/H4CK-L/H4CK-L/main/H4ck%20Living..gif"  width="100%" height="550"/>
+ <img src="https://raw.githubusercontent.com/H4CK-L/H4CK-L/main/H4ck%20Living..gif"  width="90%" height="550"/>
  
  ![header](https://capsule-render.vercel.app/api?type=slice)
 <br>
