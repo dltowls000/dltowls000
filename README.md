@@ -18,7 +18,9 @@ Welcome To H4ck-L Hacking Ground !!👋
  <img src="https://cdn.simpleicons.org/hackaday/000/fff" alt=hackaday width=15>
 <br>
 </br>
- <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
  <img src="https://img.shields.io/badge/c-F2CB61?style=for-the-badge&logo=c&logoColor=white">
  <img src="https://img.shields.io/badge/assembly-8C8C8C?style=for-the-badge&logo=assemblyscript&logoColor=white">
  
