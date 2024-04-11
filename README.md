@@ -22,11 +22,17 @@ Welcome To H4ck-L Hacking Ground !!👋
  <img src="https://img.shields.io/badge/c-F2CB61?style=for-the-badge&logo=c&logoColor=white">
  <img src="https://img.shields.io/badge/assembly-8C8C8C?style=for-the-badge&logo=assemblyscript&logoColor=white">
  
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+ 
  ---
  <img src="https://cdn.simpleicons.org/hackaday/000/fff" alt=hackaday width=15>
  __Work Place__
  <img src="https://cdn.simpleicons.org/hackaday/000/fff" alt=hackaday width=15>
  <br>
  </br>
+ <img src="https://img.shields.io/badge/assembly-8C8C8C?style=for-the-badge&logo=assemblyscript&logoColor=white">
+ <img src="https://img.shields.io/badge/assembly-8C8C8C?style=for-the-badge&logo=assemblyscript&logoColor=white">
+ <img src="https://img.shields.io/badge/assembly-8C8C8C?style=for-the-badge&logo=assemblyscript&logoColor=white">
+ <img src="https://img.shields.io/badge/assembly-8C8C8C?style=for-the-badge&logo=assemblyscript&logoColor=white">
  
 </div>
