@@ -42,5 +42,5 @@ Welcome To H4ck-L Hacking Ground !!👋
 </div>
 <div align="center">
  
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=848484)
+<img src="https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=300&section=footer"/>
 </div>
