@@ -3,8 +3,12 @@
  
  <img src="https://capsule-render.vercel.app/api?type=wave&color=848484&height=300"/>
 <br>
+<br>
 </br>
-Welcome To H4ck-L Hacking Ground !!👋
+</br>
+<h3 align="center">
+ Welcome To H4ck-L Hacking Ground !!👋
+</h3>
 <br>
 </br>
  
