@@ -30,10 +30,9 @@ Welcome To H4ck-L Hacking Ground !!👋
  <h2>
  <img src="https://cdn.simpleicons.org/hackaday/000/fff" alt=hackaday width=15>
  __Work Place__
- <img src="https://cdn.simpleicons.org/hackaday/000/fff" alt=hackaday width=15>
+ <img src="https://cdn.simpleicons.org/hackaday/000/fff" alt=hackaday width=15> </h2>
  <br>
  </br>
- </h2>
  
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
