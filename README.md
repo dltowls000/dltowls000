@@ -50,4 +50,4 @@
  ---
 <img src="https://capsule-render.vercel.app/api?type=wave&color=86E57F&height=300&section=footer"/>
 
-</dev>
+</div>
