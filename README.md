@@ -20,7 +20,7 @@
  <br>
 </br>
  <img src="https://cdn.simpleicons.org/hackaday/000/fff" alt=hackaday width=15>
- __Use Language__
+ __Skills__
  <img src="https://cdn.simpleicons.org/hackaday/000/fff" alt=hackaday width=15>
 </h3>
 
@@ -40,6 +40,8 @@
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
  <img src="https://img.shields.io/badge/assembly-8C8C8C?style=for-the-badge&logo=assemblyscript&logoColor=white">
+
+ <a href="https://www.instagram.com/rbs1ey"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rbs1ey"/></a>
  
  <br>
  </br>
