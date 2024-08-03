@@ -26,4 +26,5 @@ April 25, 2024: Solved first Level 4 Reversing problem
 April 27, 2024: Participated in 2024 Hacktheon preliminaries  
 May 3, 2024: Reached Dreamhack Ranking in the 1300s  
 July 23, 2024: Reached Dreamhack Ranking in the 1200s  
-July 23, 2024: surpassed a total score of 1000 points in the DreamHack Wargame  
+July 27, 2024: Reached Dreamhack Ranking in the 1000s    
+July 27, 2024: achieved 30th place in the DreamHack CTF  
