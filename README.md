@@ -28,5 +28,5 @@ May 3, 2024: Reached Dreamhack Ranking in the 1300s
 July 23, 2024: Reached Dreamhack Ranking in the 1200s  
 July 27, 2024: Reached Dreamhack Ranking in the 1000s    
 July 27, 2024: achieved 30th place in the DreamHack CTF  
-August 17 ~ 18 2024: 29s HackingCamp
+August 17 ~ 18 2024: 29s HackingCamp  
 February 10 2025: achieved 1th place in Security One Forum Absolute Evaluation CTF
