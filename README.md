@@ -19,6 +19,12 @@
  ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dltowls000&show_icons=true&theme=dark#gh-dark-mode-only)
 
 
+## _Tools_
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+
+
 ## _Achievement_
 
 April 7, 2024: Completed Reverse Engineering course  
